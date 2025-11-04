@@ -2,3 +2,6 @@ baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme ="ananke"
+[taxonomies]
+  device_type = "device_types"
+  brand = "brands"
