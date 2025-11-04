@@ -3,5 +3,5 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme ="ananke"
 [taxonomies]
-  device_type = "device_types"
-  brand = "brands"
+  category = "categories"
+  tag = "tags"
