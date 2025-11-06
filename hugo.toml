@@ -5,12 +5,10 @@ theme = "ananke"
 
 [menus]
   [[menus.main]]
-    url = '
     name = 'Home'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    url = 'http://localhost:1313/GetCertified/'
     name = 'Get Certified'
     pageRef = '/Get Certified'
     weight = 20
@@ -18,7 +16,7 @@ theme = "ananke"
     name = 'Forums'
     pageRef = 'Forums'
     weight = 30
-[[menus.main]]
+  [[menus.main]]
     name = 'Guides'
     pageRef = '/Guides'
     weight = 40
