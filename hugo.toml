@@ -20,4 +20,16 @@ theme = "ananke"
     name = 'Guides'
     pageRef = '/Guides'
     weight = 40
+  
+  [[menus.main]]
+    name = 'Contact' 
+    url = "/About/Contact"
+    weight = 50 
+    parent = 'About'
+  
+  [[menus.main]]
+    name = 'Who We Are'
+    url = "/About/WhoWeAre"
+    weight = 60 
+    parent = 'About'
 
