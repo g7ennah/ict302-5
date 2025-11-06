@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>Lenovo ThinkPad E14 Gen 2</title>
-      <link>http://localhost:1313/posts/testpost/</link>
+      <link>http://localhost:1313/posts/lenovo-thinkpad-e14-gen-2/</link>
       <pubDate>Mon, 03 Nov 2025 17:26:56 -0400</pubDate>
-      <guid>http://localhost:1313/posts/testpost/</guid>
+      <guid>http://localhost:1313/posts/lenovo-thinkpad-e14-gen-2/</guid>
       <description>&lt;h2 id=&#34;lenovo-thinkpad-e14-gen-2-repair&#34;&gt;Lenovo ThinkPad E14 Gen 2 Repair&lt;/h2&gt;&#xA;&lt;p&gt;The Lenovo ThinkPad E14 Gen 2 is a business-class device designed by Lenovo. It is part of the ThinkPad E Series and is known for its reliable performance, portability, and professional design.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Parts:&lt;/strong&gt;&#xA;Adhesives (1)&#xA;Antennas (1)&#xA;Batteries (1)&#xA;Cables (8)&#xA;Case Components (3)&#xA;Display Components (1)&#xA;Hinges and Hinge Pins (1)&#xA;Keyboards (1)&#xA;Motherboards (1)&#xA;Power Adapters (2)&#xA;RAM (4)&#xA;Screens (1)&#xA;Storage (2)&#xA;Trackpads (1)&#xA;Wireless Boards (1)&lt;/p&gt;</description>
     </item>
     <item>
@@ -49,6 +49,13 @@
       <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
       <guid>http://localhost:1313/posts/maria-first-post/</guid>
       <description>&lt;h2 id=&#34;header-one&#34;&gt;Header One&lt;/h2&gt;&#xA;&lt;p&gt;This is just a &lt;em&gt;draft&lt;/em&gt; of a post for &lt;strong&gt;practice&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is some other Markdown syntax:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;header-3-syntax&#34;&gt;Header 3 &lt;em&gt;&lt;strong&gt;syntax&lt;/strong&gt;&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;blockquotes.  this is a fun way to format content&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Nokia 1010 Battery Replacement</title>
+      <link>http://localhost:1313/posts/iphone-16-pro-battery-replacement/</link>
+      <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
+      <guid>http://localhost:1313/posts/iphone-16-pro-battery-replacement/</guid>
+      <description>&lt;h2 id=&#34;replace-the-battery-in-your-iphone-16-pro&#34;&gt;Replace the battery in your iPhone 16 Pro.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have had troubles with the battery life of your phone and want to replace the battery, this guide will help you to access the battery and help you replace the battery step by step. If your phone will not turn on at all and you would like to make sure that the battery is fully intact, this guide will show you how to access the battery.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
