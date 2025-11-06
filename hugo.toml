@@ -1,7 +1,43 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
+<<<<<<< HEAD
 title = "My New Hugo Site"
 theme ="ananke"
 [taxonomies]
   category = "categories"
   tag = "tags"
+=======
+title = ""
+theme = "ananke"
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Get Certified'
+    pageRef = '/GetCertified'
+    weight = 20
+  [[menus.main]]
+    name = 'Forums'
+    pageRef = '/Forums'
+    weight = 30
+  [[menus.main]]
+    name = 'Guides'
+    pageRef = '/Guides'
+    weight = 40
+  
+  [[menus.main]]
+    name = 'Contact' 
+    url = "/About/Contact"
+    weight = 50 
+    parent = 'About'
+  
+  [[menus.main]]
+    name = 'Who We Are'
+    url = "/About/WhoWeAre"
+    weight = 60 
+    parent = 'About'
+
+>>>>>>> bc3169a8246bf4d82d0d521c4213d918fae3deb9
