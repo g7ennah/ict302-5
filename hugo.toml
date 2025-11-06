@@ -1,6 +1,6 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "menus"
 theme = "ananke"
 
 [menus]
@@ -23,12 +23,3 @@ theme = "ananke"
     pageRef = '/Guides'
     weight = 40
 
-[menus]
-  [[menus.footer]]
-    name = 'Terms'
-    pageRef = '/terms'
-    weight = 10
-  [[menus.footer]]
-    name = 'Privacy'
-    pageRef = '/privacy'
-    weight = 20
