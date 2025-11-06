@@ -1,14 +1,10 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
-<<<<<<< HEAD
 title = "My New Hugo Site"
 theme ="ananke"
 [taxonomies]
   category = "categories"
   tag = "tags"
-=======
-title = ""
-theme = "ananke"
 
 [menus]
   [[menus.main]]
@@ -39,5 +35,3 @@ theme = "ananke"
     url = "/About/WhoWeAre"
     weight = 60 
     parent = 'About'
-
->>>>>>> bc3169a8246bf4d82d0d521c4213d918fae3deb9

@@ -65,6 +65,27 @@
       <description>&lt;p&gt;&lt;strong&gt;Post your device related questions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Need repair fixes to your broken device?&lt;/p&gt;</description>
     </item>
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about-test/</link>
+      <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
+      <guid>http://localhost:1313/about/about-test/</guid>
+      <description>&lt;p&gt;This is a test page for the About menu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Forums</title>
+      <link>http://localhost:1313/forums/forumstestpage/</link>
+      <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
+      <guid>http://localhost:1313/forums/forumstestpage/</guid>
+      <description>&lt;p&gt;This is a test page for the forums menu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guides</title>
+      <link>http://localhost:1313/guides/guidestestpost/</link>
+      <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
+      <guid>http://localhost:1313/guides/guidestestpost/</guid>
+      <description>&lt;p&gt;This is a test page for the guides menu.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Repair Guides</title>
       <link>http://localhost:1313/pages/parks-page/</link>
       <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
@@ -84,6 +105,13 @@
       <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
       <guid>http://localhost:1313/posts/iphone-16-pro-battery-replacement/</guid>
       <description>&lt;h2 id=&#34;replace-the-battery-in-your-iphone-16-pro&#34;&gt;Replace the battery in your iPhone 16 Pro.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have had troubles with the battery life of your phone and want to replace the battery, this guide will help you to access the battery and help you replace the battery step by step. If your phone will not turn on at all and you would like to make sure that the battery is fully intact, this guide will show you how to access the battery.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get Certified</title>
+      <link>http://localhost:1313/getcertified/workshop-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/getcertified/workshop-post/</guid>
+      <description>&lt;p&gt;Test Post for Get Certified page for workshop.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
