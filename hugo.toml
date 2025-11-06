@@ -1,6 +1,6 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
-title = "menus"
+title = ""
 theme = "ananke"
 
 [menus]
@@ -10,11 +10,11 @@ theme = "ananke"
     weight = 10
   [[menus.main]]
     name = 'Get Certified'
-    pageRef = '/Get Certified'
+    pageRef = '/GetCertified'
     weight = 20
   [[menus.main]]
     name = 'Forums'
-    pageRef = 'Forums'
+    pageRef = '/Forums'
     weight = 30
   [[menus.main]]
     name = 'Guides'
