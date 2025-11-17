@@ -62,6 +62,8 @@
       {{- partials.Include "tags.html" . -}}
       <h2>Appliances</h2>
       {{- partials.Include "categories.html" . -}}
+      <h2>Authors
+      {{- partials.Include "authors.html" . -}}
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.Config.Services.Disqus.Shortname }}
         {{ template "_internal/disqus.html" . }}

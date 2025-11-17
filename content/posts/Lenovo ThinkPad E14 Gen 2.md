@@ -4,6 +4,7 @@ draft = true
 title = 'Lenovo ThinkPad E14 Gen 2'
 categories = ["Laptop"]
 tags = ["Lenovo"]
+authors = ["Glenna"]
 +++
 
 ## Lenovo ThinkPad E14 Gen 2 Repair

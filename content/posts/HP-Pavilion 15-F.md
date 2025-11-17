@@ -4,6 +4,7 @@ draft = true
 title = 'HP Pavilion 15-F'
 categories = ["Laptop"]
 tags = ["HP"]
+
 +++
 
 ## HP Pavilion 15-F Repair
