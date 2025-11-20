@@ -1,6 +1,7 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Right 2 Repair"
+featured_image= "/images/right2repair.png"
 theme ="ananke"
 [taxonomies]
   category = "categories"
