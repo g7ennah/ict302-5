@@ -2,10 +2,8 @@
 date = '2025-09-30T15:49:29-04:00'
 draft = false
 title = "Right to Repair"
-featured_image= "/images/r2rman.jpg"
+featured_image= "/images/right2repair.png"
 +++
-
-
 
 Welcome to our website!
 
