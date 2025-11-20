@@ -9,32 +9,25 @@ theme ="ananke"
   author = "authors"
   software = "softwares"
 
-[menus]
+ [menus]
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
-    weight = 10
+    weight = 1
   [[menus.main]]
-    name = 'Get Certified'
-    pageRef = '/GetCertified'
-    weight = 20
+    name = 'About'
+    pageRef = '/About'
+    weight = 2
   [[menus.main]]
     name = 'Forums'
     pageRef = '/Forums'
-    weight = 30
+    weight = 3
   [[menus.main]]
     name = 'Guides'
     pageRef = '/Guides'
-    weight = 40
-  
-  [[menus.main]]
-    name = 'Contact' 
-    url = "/About/Contact"
-    weight = 50 
-    parent = 'About'
-  
-  [[menus.main]]
-    name = 'Who We Are'
-    url = "/About/WhoWeAre"
-    weight = 60 
-    parent = 'About'
+    weight = 4
+
+    
+     
+
+

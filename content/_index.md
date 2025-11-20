@@ -5,6 +5,8 @@ title = "Right to Repair"
 featured_image= "/images/right2repair.png"
 +++
 
+Welcome to our website!
+
 Group 5's solution for group 4.
 
      ICT 302
