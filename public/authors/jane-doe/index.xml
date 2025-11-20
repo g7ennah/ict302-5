@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jane Doe on My New Hugo Site</title>
+    <link>http://localhost:1313/authors/jane-doe/</link>
+    <description>Recent content in Jane Doe on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Oct 2025 11:48:52 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/jane-doe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nokia 1010 Battery Replacement</title>
+      <link>http://localhost:1313/posts/nokia-pro-battery-replacement/</link>
+      <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
+      <guid>http://localhost:1313/posts/nokia-pro-battery-replacement/</guid>
+      <description>&lt;h2 id=&#34;replace-the-battery-in-your-iphone-16-pro&#34;&gt;Replace the battery in your iPhone 16 Pro.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have had troubles with the battery life of your phone and want to replace the battery, this guide will help you to access the battery and help you replace the battery step by step. If your phone will not turn on at all and you would like to make sure that the battery is fully intact, this guide will show you how to access the battery.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,21 +2,38 @@ baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme ="ananke"
-
 [taxonomies]
-category = "categories"
-tag = "tags"
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+  software = "softwares"
 
-[menu]
-[[menu.main]]
-  name = 'Home'
-  pageref = '/'
-  weight = 10
-[[menu.main]]
-  name = 'Demo'
-  pageref = '/Demo'
-  weight = 20
-[[menu.main]]
-  name = 'harrysite(link)'
-  url = 'https://harrycresswell.com/writing/menus-in-hugo/'
-  weight = 30
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Get Certified'
+    pageRef = '/GetCertified'
+    weight = 20
+  [[menus.main]]
+    name = 'Forums'
+    pageRef = '/Forums'
+    weight = 30
+  [[menus.main]]
+    name = 'Guides'
+    pageRef = '/Guides'
+    weight = 40
+  
+  [[menus.main]]
+    name = 'Contact' 
+    url = "/About/Contact"
+    weight = 50 
+    parent = 'About'
+  
+  [[menus.main]]
+    name = 'Who We Are'
+    url = "/About/WhoWeAre"
+    weight = 60 
+    parent = 'About'

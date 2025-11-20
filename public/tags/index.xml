@@ -6,13 +6,27 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Oct 2025 11:48:52 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 12:06:06 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Information</title>
-      <link>http://localhost:1313/tags/information/</link>
+      <title>HP</title>
+      <link>http://localhost:1313/tags/hp/</link>
+      <pubDate>Tue, 04 Nov 2025 12:06:06 -0400</pubDate>
+      <guid>http://localhost:1313/tags/hp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lenovo</title>
+      <link>http://localhost:1313/tags/lenovo/</link>
+      <pubDate>Mon, 03 Nov 2025 17:26:56 -0400</pubDate>
+      <guid>http://localhost:1313/tags/lenovo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nokia</title>
+      <link>http://localhost:1313/tags/nokia/</link>
       <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
-      <guid>http://localhost:1313/tags/information/</guid>
+      <guid>http://localhost:1313/tags/nokia/</guid>
       <description></description>
     </item>
   </channel>
