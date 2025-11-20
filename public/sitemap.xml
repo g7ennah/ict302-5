@@ -44,7 +44,10 @@
     <loc>http://localhost:1313/pages/white-page/</loc>
     <lastmod>2025-10-14T12:17:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/need-a-fix-page/</loc>
+    <loc>http://localhost:1313/need-a-fix/need-a-fix-page/</loc>
+    <lastmod>2025-10-14T12:01:48-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/need-a-fix/</loc>
     <lastmod>2025-10-14T12:01:48-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/about-test/</loc>
