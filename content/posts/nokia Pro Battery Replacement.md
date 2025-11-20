@@ -2,6 +2,11 @@
 date = '2025-10-02T11:48:52-04:00'
 draft = true
 title = 'Nokia 1010 Battery Replacement'
+featured_image= '/images/nokias1.jpg'
+categories = ["Mobile Phone"]
+tags = ["Nokia"]
+authors = ["Jane"]
+softwares = ["IOS"]
 +++
 
 ## Replace the battery in your iPhone 16 Pro.

@@ -5,6 +5,8 @@ theme ="ananke"
 [taxonomies]
   category = "categories"
   tag = "tags"
+  author = "authors"
+  software = "softwares"
 
 [menus]
   [[menus.main]]

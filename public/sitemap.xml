@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/softwares/android/</loc>
+    <lastmod>2025-11-04T12:06:06-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-11-04T12:06:06-04:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2025-11-04T12:06:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-11-04T12:06:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/softwares/</loc>
     <lastmod>2025-11-04T12:06:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -61,6 +67,21 @@
   </url><url>
     <loc>http://localhost:1313/pages/parks-page/</loc>
     <lastmod>2025-10-14T11:58:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-10-02T11:48:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/softwares/ios/</loc>
+    <lastmod>2025-10-02T11:48:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/jane/</loc>
+    <lastmod>2025-10-02T11:48:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/mobile-phone/</loc>
+    <lastmod>2025-10-02T11:48:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nokia/</loc>
+    <lastmod>2025-10-02T11:48:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/nokia-pro-battery-replacement/</loc>
     <lastmod>2025-10-02T11:48:52-04:00</lastmod>

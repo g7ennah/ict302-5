@@ -2,9 +2,10 @@
 date = '2025-11-04T12:06:06-04:00'
 draft = true
 title = 'HP Pavilion 15-F'
+author = 'Innis Freemont'
 categories = ["Laptop"]
 tags = ["HP"]
-
+softwares = ["Android"]
 +++
 
 ## HP Pavilion 15-F Repair

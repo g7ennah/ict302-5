@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/categories/laptop/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Mobile Phone</title>
+      <link>http://localhost:1313/categories/mobile-phone/</link>
+      <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
+      <guid>http://localhost:1313/categories/mobile-phone/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
