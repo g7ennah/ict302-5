@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on Right 2 Repair</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on Right 2 Repair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Nov 2025 12:06:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 10:52:56 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaming Console</title>
+      <link>http://localhost:1313/categories/gaming-console/</link>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/categories/gaming-console/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Laptop</title>
       <link>http://localhost:1313/categories/laptop/</link>
