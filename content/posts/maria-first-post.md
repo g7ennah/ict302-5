@@ -2,6 +2,8 @@
 date = '2025-10-02T11:48:52-04:00'
 draft = true
 title = 'Maria First Post'
+category = ["News"]
+tags = ["information"]
 +++
 
 ## Header One
@@ -15,3 +17,4 @@ Here is some other Markdown syntax:
 ### Header 3 ***syntax***
 
 > blockquotes.  this is a fun way to format content
+

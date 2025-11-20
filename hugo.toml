@@ -2,3 +2,21 @@ baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme ="ananke"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  pageref = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Demo'
+  pageref = '/Demo'
+  weight = 20
+[[menu.main]]
+  name = 'harrysite(link)'
+  url = 'https://harrycresswell.com/writing/menus-in-hugo/'
+  weight = 30
