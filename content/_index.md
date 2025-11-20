@@ -5,6 +5,8 @@ title = "Right to Repair"
 featured_image= "/images/r2rman.jpg"
 +++
 
+
+
 Welcome to our website!
 
 Group 5's solution for group 4.
