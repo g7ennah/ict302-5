@@ -4,6 +4,8 @@ draft = false
 title = "Right to Repair"
 +++
 
+Welcome to our website!
+
 Group 5's solution for group 4.
 
      ICT 302
