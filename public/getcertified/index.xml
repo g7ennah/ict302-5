@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/getcertified/get-certified-page/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Get Certified&lt;/strong&gt;&#xA;Share your relevant work experience an(or) upload your certifications.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Get Certified</title>
+      <link>http://localhost:1313/getcertified/workshop-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/getcertified/workshop-post/</guid>
+      <description>&lt;p&gt;Test Post for Get Certified page for workshop.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

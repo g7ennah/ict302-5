@@ -1,7 +1,12 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
-title = ""
-theme = "ananke"
+title = "My New Hugo Site"
+theme ="ananke"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+  software = "softwares"
 
  [menus]
   [[menus.main]]
