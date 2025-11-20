@@ -5,18 +5,24 @@ title = "Right to Repair"
 featured_image= "/images/right2repair.png"
 +++
 
-Welcome to our website!
+<div class="dark-blue">
 
-Group 5's solution for group 4.
+# FIX MORE. WASTE LESS.
+</div>
 
-     ICT 302
+<div class="tl">
+</div>
 
-**Group 5**
+Need an guide? Have a question? Want to learn more about Right to Repair?
 
-Andres Quintero
 
-Glenna Saldanha
 
-Maria Parks
 
-Ryder White
+
+
+<div class="bg-light-blue ba b--light-blue br3 pa3 ma3" markdown="1">
+
+  ### YOUR IN THE RIGHT PLACE!!!
+</div>
+
+Right to Repair, your hub for fixing the products you rely on every day. Whether it's repairing a phone, laptop, or appliance, we provide step-by-step guides and expert tips to help you do it with confidence.

@@ -27,7 +27,10 @@ theme ="ananke"
     pageRef = '/Guides'
     weight = 4
 
-    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    
      
 
 
