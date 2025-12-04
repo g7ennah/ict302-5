@@ -1,6 +1,7 @@
 +++
 date = '2025-11-04T12:06:06-04:00'
 draft = true
+layout = 'guide'
 title = 'HP Pavilion 15-F'
 featured_image = '/images/hp15f.jfif'
 author = 'Innis Freemont'
