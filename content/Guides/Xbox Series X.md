@@ -5,9 +5,8 @@ title = 'Xbox Series X'
 featured_image = '/images/xbox.jfif'
 categories = ["Gaming Console"]
 tags = ["Xbox"]
-author = ["Ryder"]
+author = ["Ryder White"]
 softwares = ["Microsoft"]
-featured_image = '/images/right_to_repair.jpg'
 +++
 
 ## Xbox Series X Repair
