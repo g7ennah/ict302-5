@@ -21,7 +21,7 @@ Need an guide? Have a question? Want to learn more about Right to Repair?
 
 <div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="text-align:center;" markdown="1">
   
-  ### YOUR IN THE RIGHT PLACE!!!
+  ### YOU'RE IN THE RIGHT PLACE!!!
 </div>
 
 
