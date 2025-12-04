@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Right 2 Repair</title>
+    <link>http://localhost:1313/softwares/google/</link>
+    <description>Recent content in Google on Right 2 Repair</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Nov 2025 10:52:56 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/softwares/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Pixel Battery Replacement</title>
+      <link>http://localhost:1313/guides/google-pixel-battery-replacement/</link>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/guides/google-pixel-battery-replacement/</guid>
+      <description>&lt;h2 id=&#34;google-pixel-battery-replacement&#34;&gt;Google Pixel Battery Replacement&lt;/h2&gt;&#xA;&lt;p&gt;The Google Pixel (1st generation) uses a lithium-ion battery that degrades over time. Common symptoms include rapid battery drain, random shutdowns, and swollen battery cells. Replacing the battery restores device longevity and prevents potential damage caused by battery swelling.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐/5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Required:30–45 minutes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Identification:&lt;/strong&gt;&#xA;You can identify this device by its:&#xA;~Two-tone aluminum and glass back design&#xA;~Single rear camera&#xA;~Circular fingerprint sensor centered on the back&#xA;~Model number “G-2PW4100” printed on the bottom rear side&#xA;~If your device matches these features, you have the correct guide.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
