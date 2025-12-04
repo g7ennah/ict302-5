@@ -6,6 +6,7 @@ categories = ["Gaming Console"]
 tags = ["Xbox"]
 author = ["Ryder"]
 softwares = ["Microsoft"]
+featured_image = '/images/right_to_repair.jpg'
 +++
 
 ## Xbox Series X Repair
