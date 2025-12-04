@@ -26,9 +26,6 @@
     <loc>http://localhost:1313/guides/xbox-series-x/</loc>
     <lastmod>2025-11-20T10:52:56-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/softwares/android/</loc>
-    <lastmod>2025-11-04T12:06:06-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/hp/</loc>
     <lastmod>2025-11-04T12:06:06-04:00</lastmod>
   </url><url>
@@ -37,6 +34,12 @@
   </url><url>
     <loc>http://localhost:1313/categories/laptop/</loc>
     <lastmod>2025-11-04T12:06:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/softwares/windows/</loc>
+    <lastmod>2025-11-04T12:06:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/softwares/android/</loc>
+    <lastmod>2025-11-03T17:26:56-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/lenovo/</loc>
     <lastmod>2025-11-03T17:26:56-04:00</lastmod>
