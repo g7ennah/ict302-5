@@ -19,6 +19,7 @@ theme ="ananke"
     pageRef = '/GetCertified'
     weight = 20
 
+# this is to help create use html syntax on markdown file
   [[menus.main]]
     name = 'Need a fix?'
     pageRef = '/need-a-fix/need-a-fix-page/'
@@ -27,6 +28,16 @@ theme ="ananke"
   [[menus.main]]
     name = 'Guides'
     pageRef = '/Guides'
+    weight = 4
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    
+     
+
+
     weight = 40
   
   [[menus.main]]
