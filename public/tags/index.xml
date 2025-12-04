@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 20 Nov 2025 10:52:56 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Google Pixel</title>
+      <link>http://localhost:1313/tags/google-pixel/</link>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/tags/google-pixel/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Xbox</title>
       <link>http://localhost:1313/tags/xbox/</link>
       <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
