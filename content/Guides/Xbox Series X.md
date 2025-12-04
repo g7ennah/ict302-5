@@ -1,13 +1,12 @@
 +++
 date = '2025-11-20T10:52:56-04:00'
 draft = true
-title = 'Xbox Series X' 
 featured_image = '/images/xbox.jfif'
+title = 'Xbox Series X' 
 categories = ["Gaming Console"]
 tags = ["Xbox"]
 author = ["Ryder"]
 softwares = ["Microsoft"]
-featured_image = '/images/right_to_repair.jpg'
 +++
 
 ## Xbox Series X Repair
