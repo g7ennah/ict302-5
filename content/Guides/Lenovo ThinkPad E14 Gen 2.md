@@ -1,6 +1,6 @@
 +++
 date = '2025-11-03T17:26:56-04:00'
-draft = true
+layout = 'guide'
 title = 'Lenovo ThinkPad E14 Gen 2'
 categories = ["Laptop"]
 tags = ["Lenovo"]
