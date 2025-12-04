@@ -12,6 +12,8 @@ softwares = ["Android"]
 
 The Lenovo ThinkPad E14 Gen 2 is a business-class device designed by Lenovo. It is part of the ThinkPad E Series and is known for its reliable performance, portability, and professional design.
 
+![Picture of a Lenovo thinkpad E14 Gen 2](/images/lenovothinkpad.jpg)
+
 **Parts:**
 Adhesives (1)
 Antennas (1)

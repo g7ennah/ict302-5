@@ -2,6 +2,7 @@
 date = '2025-11-04T12:06:06-04:00'
 draft = true
 title = 'HP Pavilion 15-F'
+featured_image = '/images/hp15f.jfif'
 author = 'Innis Freemont'
 categories = ["Laptop"]
 tags = ["HP"]
@@ -11,6 +12,9 @@ softwares = ["Android"]
 ## HP Pavilion 15-F Repair
 
  The HP Pavilion 15-f series is a line of 15.6-inch laptops, including models with Intel and AMD processors, HD or FHD display options. The models feature up to 8GB of RAM, HDD, or SSD storage. Models in this lineup include the f200c, f305dx, f337nr, f337wm, and f387wm. This page contains repair and service information related to the HP Pavilion 15-F series.
+
+ ![Picture of a HP Pavilion 15-F](/images/hp15f.jfif)
+
 
 **Models**
 305DX, 337NR, 337WM, 387WM
