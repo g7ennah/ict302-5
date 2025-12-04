@@ -16,6 +16,10 @@ softwares = ["IOS"]
  
 If you have had troubles with the battery life of your phone and want to replace the battery, this guide will help you to access the battery and help you replace the battery step by step. If your phone will not turn on at all and you would like to make sure that the battery is fully intact, this guide will show you how to access the battery.
 
+**Difficulty Level:**  ⭐⭐/5
+
+**Time Required:30 – 1 hour**
+
 **Step 1: Battery**
 
 ![My Photo](/images/nokias1.jpg)
