@@ -2,6 +2,7 @@ baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
 title = "Right 2 Repair"
 theme ="ananke"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -28,7 +29,12 @@ theme ="ananke"
   [[menus.main]]
     name = 'Guides'
     pageRef = '/Guides'
-    weight = 4
+    weight = 40
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/About'
+    weight = 50
 
 
 [markup]
