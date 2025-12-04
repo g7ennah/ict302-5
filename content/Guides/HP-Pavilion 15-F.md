@@ -7,7 +7,7 @@ featured_image = '/images/hp15f.jfif'
 author = 'Innis Freemont'
 categories = ["Laptop"]
 tags = ["HP"]
-softwares = ["Android"]
+softwares = ["Windows"]
 +++
 
 ## HP Pavilion 15-F Repair
