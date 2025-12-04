@@ -5,7 +5,7 @@ featured_image = '/images/xbox.jfif'
 title = 'Xbox Series X' 
 categories = ["Gaming Console"]
 tags = ["Xbox"]
-author = ["Ryder"]
+author = ["Ryder White"]
 softwares = ["Microsoft"]
 +++
 
