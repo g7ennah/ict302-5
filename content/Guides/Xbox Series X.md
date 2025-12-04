@@ -1,6 +1,7 @@
 +++
 date = '2025-11-20T10:52:56-04:00'
 draft = true
+layout = 'guide'
 title = 'Xbox Series X' 
 featured_image = '/images/xbox.jfif'
 categories = ["Gaming Console"]
