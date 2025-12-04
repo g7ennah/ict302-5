@@ -16,9 +16,16 @@
       <description></description>
     </item>
     <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/softwares/windows/</link>
+      <pubDate>Tue, 04 Nov 2025 12:06:06 -0400</pubDate>
+      <guid>http://localhost:1313/softwares/windows/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Android</title>
       <link>http://localhost:1313/softwares/android/</link>
-      <pubDate>Tue, 04 Nov 2025 12:06:06 -0400</pubDate>
+      <pubDate>Mon, 03 Nov 2025 17:26:56 -0400</pubDate>
       <guid>http://localhost:1313/softwares/android/</guid>
       <description></description>
     </item>
