@@ -1,6 +1,5 @@
 +++
 date = '2025-10-02T11:48:52-04:00'
-layout = 'guide'
 draft = true
 title = 'Nokia 1010 Battery Replacement'
 featured_image= '/images/nokias1.jpg'
