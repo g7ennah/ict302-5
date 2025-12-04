@@ -25,4 +25,4 @@ Need an guide? Have a question? Want to learn more about Right to Repair?
   ### YOUR IN THE RIGHT PLACE!!!
 </div>
 
-Right to Repair, your hub for fixing the products you rely on every day. Whether it's repairing a phone, laptop, or appliance, we provide step-by-step guides and expert tips to help you do it with confidence.
+Right to Repair is your hub for fixing the products you rely on every day. Whether it's repairing a laptop, speaker, appliance, etc., we provide step-by-step guides and expert tips to help you do it with confidence.
