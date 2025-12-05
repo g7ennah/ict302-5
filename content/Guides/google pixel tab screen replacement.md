@@ -3,7 +3,7 @@ date = '2025-12-03T10:52:56-04:00'
 draft = true
 layout = 'guide'
 title = 'Google Pixel Tab Screen Replacement' 
-featured_image = '/images/google pixel.jfif'
+featured_image = '/images/google pixel tab.jfif'
 categories = ["Tablet"]
 tags = ["Google Pixel"]
 author = ["Josh"]
@@ -12,6 +12,7 @@ softwares = ["Google"]
 
 ## Google Pixel Tablet – Screen Replacement ##
 
+![Alt text](https://cdn11.bigcommerce.com/s-o9pppsyjzh/images/stencil/1280x1280/products/493975/32392250/N6328378__1__00998.1754165302.jpg?c=1)
 
 **Background**:
 

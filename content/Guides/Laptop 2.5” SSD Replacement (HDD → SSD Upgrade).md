@@ -3,6 +3,7 @@ date = '2025-11-20T10:52:56-04:00'
 draft = true
 layout = 'guide'
 title = 'Laptop 2.5” SSD Replacement (HDD → SSD Upgrade)' 
+featured_image = '/images/sdd.jpg'
 categories = ["Laptop"]
 tags = ["SDD"]
 author = ["Luigi"]
@@ -12,7 +13,9 @@ softwares = ["Windows"]
 ## Laptop 2.5” SSD Replacement (HDD → SSD Upgrade)
 
 **Background:**
-Many laptops ship with slower mechanical hard drives. Replacing the 2.5” HDD with a solid-state drive (SSD) dramatically improves boot times, app loading, and overall responsiveness.
+Many laptops ship with slower mechanical hard drives. Replacing the 2.5” HDD with a solid-state drive (SSD) dramatically improves boot times, app loading, and overall responsiveness. 
+
+![Alttext](https://i.ebayimg.com/images/g/83sAAOSwgDBi6dn0/s-l400.jpg)
 
 **Identification:**
 This guide applies to laptops that:

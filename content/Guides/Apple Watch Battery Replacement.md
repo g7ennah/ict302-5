@@ -3,7 +3,7 @@ date = '2025-10-02T11:48:52-04:00'
 draft = true
 layout = 'guide'
 title = 'Apple Watch Battery Replacement'
-featured_image= '/images/nokias1.jpg'
+featured_image= '/images/apple watch.jpg'
 categories = ["Watch"]
 tags = ["Apple"]
 authors = ["Jane"]
@@ -13,6 +13,8 @@ softwares = ["IOS"]
 ## Apple Watch Battery Replacement ##
 
 Apple Watch batteries gradually lose capacity because of frequent charging cycles. Over time, users may begin noticing shorter battery life, unexpected shutdowns, or swelling beneath the screen. Replacing the battery restores performance and prevents potential damage to the display caused by battery expansion. 
+
+![Alt text](https://i.ebayimg.com/images/g/a3YAAOSwaaxjc8SQ/s-l1200.jpg)
 
 **Identification**
 
