@@ -64,9 +64,9 @@ Right to Repair is your hub for fixing the products you rely on every day. Wheth
 
   <a href="/ask/" class="blue-btn">Get Certified</a>
 
-  <a href="/repairs/" class="blue-btn">Need a Fix?</a>
+  <a href="/need-a-fix/" class="blue-btn">Need a Fix?</a>
   
-  <a href="/repairs/" class="blue-btn">About</a>
+  <a href="/about/" class="blue-btn">About</a>
 
 </div>
 
