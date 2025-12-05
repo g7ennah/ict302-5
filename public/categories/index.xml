@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Laptop</title>
+      <link>http://localhost:1313/categories/laptop/</link>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/categories/laptop/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mobile</title>
       <link>http://localhost:1313/categories/mobile/</link>
       <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
@@ -30,10 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Laptop</title>
-      <link>http://localhost:1313/categories/laptop/</link>
-      <pubDate>Tue, 04 Nov 2025 12:06:06 -0400</pubDate>
-      <guid>http://localhost:1313/categories/laptop/</guid>
+      <title>Refrigerator</title>
+      <link>http://localhost:1313/categories/refrigerator/</link>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/categories/refrigerator/</guid>
       <description></description>
     </item>
     <item>

@@ -65,13 +65,6 @@
       <description>&lt;h2 id=&#34;lenovo-thinkpad-e14-gen-2-repair&#34;&gt;Lenovo ThinkPad E14 Gen 2 Repair&lt;/h2&gt;&#xA;&lt;p&gt;The Lenovo ThinkPad E14 Gen 2 is a business-class device designed by Lenovo. It is part of the ThinkPad E Series and is known for its reliable performance, portability, and professional design.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐/5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Required:30–45 minutes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/lenovothinkpad.jpg&#34; alt=&#34;Picture of a Lenovo thinkpad E14 Gen 2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Parts:&lt;/strong&gt;&#xA;Adhesives (1)&#xA;Antennas (1)&#xA;Batteries (1)&#xA;Cables (8)&#xA;Case Components (3)&#xA;Display Components (1)&#xA;Hinges and Hinge Pins (1)&#xA;Keyboards (1)&#xA;Motherboards (1)&#xA;Power Adapters (2)&#xA;RAM (4)&#xA;Screens (1)&#xA;Storage (2)&#xA;Trackpads (1)&#xA;Wireless Boards (1)&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Get Certified</title>
-      <link>http://localhost:1313/getcertified/get-certified-page/</link>
-      <pubDate>Thu, 23 Oct 2025 10:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/getcertified/get-certified-page/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Get Certified&lt;/strong&gt;&#xA;Share your relevant work experience an(or) upload your certifications.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>White Page</title>
       <link>http://localhost:1313/pages/white-page/</link>
       <pubDate>Tue, 14 Oct 2025 12:17:00 -0400</pubDate>
@@ -93,18 +86,18 @@
       <description>&lt;p&gt;&lt;strong&gt;Post your device related questions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Need repair fixes to your broken device?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/about-test/</link>
-      <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
-      <guid>http://localhost:1313/about/about-test/</guid>
-      <description>&lt;p&gt;This is a test page for the About menu.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Forums</title>
       <link>http://localhost:1313/forums/forumstestpage/</link>
       <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
       <guid>http://localhost:1313/forums/forumstestpage/</guid>
       <description>&lt;p&gt;This is a test page for the forums menu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mod_1_Glenna</title>
+      <link>http://localhost:1313/about/mod_1_glenna/</link>
+      <pubDate>Tue, 14 Oct 2025 11:58:58 -0400</pubDate>
+      <guid>http://localhost:1313/about/mod_1_glenna/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;.RoyalBlue {&#xD;&#xA;  color: royalblue;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;p&gt;Hello, my name is Glenna, and I am a firm believer that consumers should have the right to repair their own appliances.&lt;/p&gt;&#xA;&lt;p&gt;Access to reliable resources, application guides, and support materials should never be a barrier and that belief is the sole driving motivation behind this website.&lt;/p&gt;&#xA;&lt;p&gt;If you have questions, concerns, feedback, or suggestions on how we can make this platform more useful for people like you, please reach out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Repair Guides</title>
@@ -126,13 +119,6 @@
       <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
       <guid>http://localhost:1313/guides/nokia-pro-battery-replacement/</guid>
       <description>&lt;h2 id=&#34;replace-the-battery-in-your-iphone-16-pro&#34;&gt;Replace the battery in your iPhone 16 Pro.&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you have had troubles with the battery life of your phone and want to replace the battery, this guide will help you to access the battery and help you replace the battery step by step. If your phone will not turn on at all and you would like to make sure that the battery is fully intact, this guide will show you how to access the battery.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Get Certified</title>
-      <link>http://localhost:1313/getcertified/workshop-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/getcertified/workshop-post/</guid>
-      <description>&lt;p&gt;Test Post for Get Certified page for workshop.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

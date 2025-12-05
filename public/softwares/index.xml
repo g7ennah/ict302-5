@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Android</title>
+      <link>http://localhost:1313/softwares/android/</link>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/softwares/android/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Microsoft</title>
       <link>http://localhost:1313/softwares/microsoft/</link>
       <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
@@ -25,7 +32,7 @@
     <item>
       <title>Windows</title>
       <link>http://localhost:1313/softwares/windows/</link>
-      <pubDate>Tue, 04 Nov 2025 12:06:06 -0400</pubDate>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
       <guid>http://localhost:1313/softwares/windows/</guid>
       <description></description>
     </item>
