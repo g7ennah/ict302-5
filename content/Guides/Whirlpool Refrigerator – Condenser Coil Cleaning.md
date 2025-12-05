@@ -2,9 +2,9 @@
 date = '2025-11-20T10:52:56-04:00'
 draft = true
 layout = 'guide'
-title = 'Xbox Series X' 
+title = 'Whirlpool Refrigerator – Condenser Coil Cleaning' 
 featured_image = '/images/xbox.jfif'
-categories = ["Gaming Console"]
+categories = ["Refrigerator"]
 tags = ["Xbox"]
 author = ["Ryder White"]
 softwares = ["Microsoft"]
