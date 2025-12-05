@@ -3,7 +3,7 @@ date = '2025-11-04T12:06:06-04:00'
 draft = true
 layout = 'guide'
 title = 'HP Pavilion 15-F'
-featured_image = '/images/hp15f.jfif'
+featured_image = '/images/hp 15f.jpg'
 author = 'Innis Freemont'
 categories = ["Laptop"]
 tags = ["HP"]
@@ -18,7 +18,7 @@ softwares = ["Windows"]
 
 **Time Required: 45 mins - 1 hour**
 
- ![Picture of a HP Pavilion 15-F](/images/hp15f.jfif)
+ ![Picture of a HP Pavilion 15-F](https://m.media-amazon.com/images/I/717ikWtIHNL._AC_UF894,1000_QL80_.jpg)
 
 
 **Models**

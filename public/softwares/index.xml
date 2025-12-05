@@ -43,5 +43,12 @@
       <guid>http://localhost:1313/softwares/ios/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Nokia</title>
+      <link>http://localhost:1313/softwares/nokia/</link>
+      <pubDate>Thu, 02 Oct 2025 11:48:52 -0400</pubDate>
+      <guid>http://localhost:1313/softwares/nokia/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

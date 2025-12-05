@@ -62,7 +62,7 @@ Right to Repair is your hub for fixing the products you rely on every day. Wheth
 
   <a href="http://localhost:1313/guides/" class="blue-btn">Guides</a>
 
-  <a href="/ask/" class="blue-btn">Get Certified</a>
+  <a href="/getcertified/" class="blue-btn">Get Certified</a>
 
   <a href="/need-a-fix/" class="blue-btn">Need a Fix?</a>
   

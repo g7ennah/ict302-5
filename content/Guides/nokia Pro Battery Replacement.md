@@ -7,7 +7,7 @@ featured_image= '/images/nokias1.jpg'
 categories = ["Mobile Phone"]
 tags = ["Nokia"]
 authors = ["Jane"]
-softwares = ["IOS"]
+softwares = ["nokia"]
 +++
 
 ## Replace the battery in your iPhone 16 Pro.

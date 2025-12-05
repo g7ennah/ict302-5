@@ -7,9 +7,9 @@ featured_image= '/images/right_to_repair.jpg'
 
 <div class="dark-blue">
 
-# Want to be a good citizen and share your knowledge to help users fix their appliances?
+## Want to be a good citizen and share your knowledge to help users fix their appliances?
  
-## You're in the right spot!!
+### You're in the right spot!!
 
 </div>
 

@@ -7,9 +7,9 @@ featured_image= '/images/right_to_repair.jpg'
 
 <div class="dark-blue">
 
-# Have more questions, concerns or things you want us to know about?
+## Have more questions, concerns or things you want us to know about?
 
-## *Reach out to one of our moderators and we will get back to you!*
+ **Reach out to one of our moderators and we will get back to you!**
 
 
 </div>

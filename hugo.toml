@@ -23,7 +23,7 @@ theme ="ananke"
 # this is to help create use html syntax on markdown file
   [[menus.main]]
     name = 'Need a fix?'
-    pageRef = '/need-a-fix/need-a-fix-page/'
+    pageRef = '/need-a-fix'
     weight = 30
 
   [[menus.main]]
