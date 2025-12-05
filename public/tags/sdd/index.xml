@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDD on Right 2 Repair</title>
+    <link>http://localhost:1313/tags/sdd/</link>
+    <description>Recent content in SDD on Right 2 Repair</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Nov 2025 10:52:56 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sdd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laptop 2.5” SSD Replacement (HDD → SSD Upgrade)</title>
+      <link>http://localhost:1313/guides/xbox-series-x---copy/</link>
+      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/guides/xbox-series-x---copy/</guid>
+      <description>&lt;h2 id=&#34;new-guide-8--laptop-25-ssd-replacement-hdd--ssd-upgrade&#34;&gt;New Guide 8 – Laptop 2.5” SSD Replacement (HDD → SSD Upgrade)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&#xA;Many laptops ship with slower mechanical hard drives. Replacing the 2.5” HDD with a solid-state drive (SSD) dramatically improves boot times, app loading, and overall responsiveness.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Identification:&lt;/strong&gt;&#xA;This guide applies to laptops that:&#xA;Have a 2.5” drive accessible from a bottom cover or dedicated drive bay&#xA;Use SATA connections (common in older or budget laptops)&#xA;Check for a dedicated drive door on the underside or a full bottom panel held on by screws.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

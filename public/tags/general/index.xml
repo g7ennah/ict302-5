@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Android on Right 2 Repair</title>
-    <link>http://localhost:1313/softwares/android/</link>
-    <description>Recent content in Android on Right 2 Repair</description>
+    <title>General on Right 2 Repair</title>
+    <link>http://localhost:1313/tags/general/</link>
+    <description>Recent content in General on Right 2 Repair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Nov 2025 10:52:56 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/softwares/android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xbox Series X</title>
       <link>http://localhost:1313/guides/xbox-series-x---copy/</link>
