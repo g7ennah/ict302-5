@@ -6,21 +6,21 @@
     <description>Recent content in Right to Repair on Right 2 Repair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Nov 2025 10:52:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 10:52:56 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Pixel Tab Screen Replacement</title>
+      <link>http://localhost:1313/guides/google-pixel-tab-screen-replacement/</link>
+      <pubDate>Wed, 03 Dec 2025 10:52:56 -0400</pubDate>
+      <guid>http://localhost:1313/guides/google-pixel-tab-screen-replacement/</guid>
+      <description>&lt;h2 id=&#34;google-pixel-tablet--screen-replacement&#34;&gt;Google Pixel Tablet – Screen Replacement&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;The Google Pixel Tablet features a bonded LCD and digitizer assembly that can become damaged due to drops, pressure points, or manufacturing aging. Users typically replace the screen when facing cracked glass, unresponsive touch input, flickering, or dead display zones. Because the screen is adhered around the perimeter, careful separation is necessary to avoid bending the frame or damaging internal cables.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐⭐⭐/5&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google Pixel Battery Replacement</title>
       <link>http://localhost:1313/guides/google-pixel-battery-replacement/</link>
       <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
       <guid>http://localhost:1313/guides/google-pixel-battery-replacement/</guid>
       <description>&lt;h2 id=&#34;google-pixel-battery-replacement&#34;&gt;Google Pixel Battery Replacement&lt;/h2&gt;&#xA;&lt;p&gt;The Google Pixel (1st generation) uses a lithium-ion battery that degrades over time. Common symptoms include rapid battery drain, random shutdowns, and swollen battery cells. Replacing the battery restores device longevity and prevents potential damage caused by battery swelling.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐/5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Required:30–45 minutes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Identification:&lt;/strong&gt;&#xA;You can identify this device by its:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;~Two-tone aluminum and glass back design &#xD;&#xA;~Single rear camera &#xD;&#xA;~Circular fingerprint sensor centered on the back &#xD;&#xA;~Model number “G-2PW4100” printed on the bottom rear side &#xD;&#xA;~If your device matches these features, you have the correct guide. &#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt;&#xA;This guide explains how to remove the screen, disconnect internal components, and safely install a new battery.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google Pixel Tab Screen Replacement</title>
-      <link>http://localhost:1313/guides/google-pixel-tab-screen-replacement/</link>
-      <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
-      <guid>http://localhost:1313/guides/google-pixel-tab-screen-replacement/</guid>
-      <description>&lt;h2 id=&#34;google-pixel-tablet--screen-replacement&#34;&gt;Google Pixel Tablet – Screen Replacement##&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;p&gt;The Google Pixel Tablet features a bonded LCD and digitizer assembly that can become damaged due to drops, pressure points, or manufacturing aging. Users typically replace the screen when facing cracked glass, unresponsive touch input, flickering, or dead display zones. Because the screen is adhered around the perimeter, careful separation is necessary to avoid bending the frame or damaging internal cables.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐⭐⭐/5&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xbox Series X</title>

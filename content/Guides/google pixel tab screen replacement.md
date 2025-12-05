@@ -1,5 +1,5 @@
 +++
-date = '2025-11-20T10:52:56-04:00'
+date = '2025-12-03T10:52:56-04:00'
 draft = true
 layout = 'guide'
 title = 'Google Pixel Tab Screen Replacement' 
@@ -10,7 +10,7 @@ author = ["Josh"]
 softwares = ["Google"]
 +++
 
-## Google Pixel Tablet – Screen Replacement##
+## Google Pixel Tablet – Screen Replacement ##
 
 
 **Background**:
@@ -23,6 +23,7 @@ The Google Pixel Tablet features a bonded LCD and digitizer assembly that can be
  
 **Identification:**
 You can identify the Google Pixel Tablet by: 
+
     ~A centered rear camera at the top edge 
     ~A matte soft-touch finish 
     ~Three pogo pins for the charging dock on the back 
@@ -43,6 +44,7 @@ This guide explains how to remove the adhered display assembly and replace it sa
     ~Spudger 
 
 **Parts Needed:**
+
     ~Replacement Google Pixel Tablet display assembly 
     ~Adhesive frame or liquid adhesive (optional but recommended) 
 
@@ -71,14 +73,10 @@ Once a small gap forms, slide a plastic pick into the edge. Carefully glide it a
 What to do: 
 After freeing the adhesive around all sides, lift the screen slightly from one edge. Keep the screen low and parallel to the frame — lifting too high can strain the ribbon cables. If the screen resists, do not force it; reheat and re-slice the remaining adhesive. 
 
-![Alt text](https://images.unsplash.com/photo-1584270354949-1f3c6f5f71a8)
-
 **Step 4 — Disconnect the Display and Digitizer Cables**
 
 What to do: 
 Use a spudger to open the display cable connectors. Lift each cable straight upward — avoid twisting motions. Once the connectors are detached, you can fully separate the old screen from the tablet body. 
-
-![Alt text](https://images.unsplash.com/photo-1581091012184-5ce3100f8911)
 
 **Step 5 — Install and Test the New Screen Assembly**
 
