@@ -5,7 +5,7 @@ title = "Repair Guides"
 featured_image= '/images/right_to_repair.jpg'
 +++
 
-<div class="dark-blue">
+<div class="orange">
  
 ## Browse our complete collection of repair guides in one place
 
