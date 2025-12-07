@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GetCertifieds on Right 2 Repair</title>
+    <title>Get Certified on Right 2 Repair</title>
     <link>http://localhost:1313/getcertified/</link>
-    <description>Recent content in GetCertifieds on Right 2 Repair</description>
+    <description>Recent content in Get Certified on Right 2 Repair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Oct 2025 10:00:00 -0400</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/getcertified/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Get Certified</title>
-      <link>http://localhost:1313/getcertified/get-certified-page/</link>
-      <pubDate>Thu, 23 Oct 2025 10:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/getcertified/get-certified-page/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Get Certified&lt;/strong&gt;&#xA;Share your relevant work experience an(or) upload your certifications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Get Certified</title>
-      <link>http://localhost:1313/getcertified/workshop-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/getcertified/workshop-post/</guid>
-      <description>&lt;p&gt;Test Post for Get Certified page for workshop.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

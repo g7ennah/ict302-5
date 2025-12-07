@@ -2,6 +2,7 @@ baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
 title = "Right 2 Repair"
 theme ="ananke"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -22,14 +23,34 @@ theme ="ananke"
 # this is to help create use html syntax on markdown file
   [[menus.main]]
     name = 'Need a fix?'
-    pageRef = '/need-a-fix/need-a-fix-page/'
+    pageRef = '/need-a-fix'
     weight = 30
 
   [[menus.main]]
     name = 'Guides'
     pageRef = '/Guides'
+<<<<<<< HEAD
     weight = 40 
       
+=======
+    weight = 40
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/About'
+    weight = 50
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true    
+     
+
+
+    weight = 40
+  
+>>>>>>> e1e95cf3750f15c64dbd78d4ce99722d232ec4e4
   [[menus.main]]
     name = 'Contact' 
     url = "/About/Contact"
@@ -43,7 +64,10 @@ theme ="ananke"
     parent = 'About'
 
 
+<<<<<<< HEAD
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true   
+=======
+>>>>>>> e1e95cf3750f15c64dbd78d4ce99722d232ec4e4

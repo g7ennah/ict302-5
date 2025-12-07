@@ -7,25 +7,25 @@ featured_image= '/images/right_to_repair.jpg'
 
 <div class="dark-blue">
 
-# FIX MORE. WASTE LESS.
+# FIX MORE. WASTE LESS. 
 </div>
 
-<div class="tl">
+<div class="tl dark-blue" style="text-align:center;">
 
 Need an guide? Have a question? Want to learn more about Right to Repair?
 
 </div>
-
-
-
 
 <div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="text-align:center;" markdown="1">
   
   ### YOU'RE IN THE RIGHT PLACE!!!
 </div>
 
+<div class="tl dark-blue" style="text-align:center;">
 
-Right to Repair is your hub for fixing the products you rely on every day. Whether it's repairing a laptop, speaker, appliance, etc., we provide step-by-step guides and expert tips to help you do it with confidence.<br><br>
+Right to Repair is your hub for fixing the products you rely on every day. Whether it's repairing a laptop, speaker, appliance, etc. We provide step-by-step guides and expert tips to help you do it with confidence.<br><br>
+
+</div>
 
 
 
@@ -97,6 +97,76 @@ Check out some recent news artciles relating to Right to Repair!
 
 </div>
 
+<<<<<<< HEAD
+=======
+
+<div class="">
+    
+<div style="text-align:center; margin-top:20px;">
+
+  <a href="http://localhost:1313/guides/" class="blue-btn">Guides</a>
+
+  <a href="/getcertified/" class="blue-btn">Get Certified</a>
+
+  <a href="/need-a-fix/" class="blue-btn">Need a Fix?</a>
+  
+  <a href="/about/" class="blue-btn">About</a>
+
+</div>
+
+<style>
+.blue-btn {
+  display: inline-block;
+  padding: 14px 26px;
+  margin: 10px;
+  background-color: #1e90ff;   /* Bright Blue */
+  color: white !important;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: all 0.25s ease;
+}
+
+.blue-btn:hover {
+  background-color: #187bcd;   /* Darker Blue */
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.25);
+}
+</style>
+
+>>>>>>> e1e95cf3750f15c64dbd78d4ce99722d232ec4e4
 ___
 ### Featured Guides
+</div>
+
+<div style="
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(220px, 1fr));
+  gap:20px;
+  margin-top:20px;
+">
+
+  <a href="/guides/google-pixel-battery-replacement/" class="guide-card">
+    <img src="/images/google pixel.jfif" alt="G Pixel Battery">
+    <h3>Replace Google Pixel Battery</h3>
+  </a>
+
+ <a href="/guides/smartphone-usb-c-replacement/" class="guide-card">
+    <img src="/images/usb-c.jpg" alt="USB-C Repalcement">
+    <h3>USB-C Replacement</h3>
+  </a>
+
+  <a href="/guides/xbox-series-x/" class="guide-card">
+    <img src="/images/xbox.jfif" alt="X Box series X">
+    <h3>X Box Series X</h3>
+  </a>
+
+  <a href="/guides/hp-pavilion-15-f/" class="guide-card">
+    <img src="/images/hp15f.jfif" alt="HP15-F"> 
+    <h3>HP 15-F </h3>
+
+  </a>
+
 </div>

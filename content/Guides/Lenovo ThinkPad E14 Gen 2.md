@@ -1,16 +1,18 @@
 +++
 date = '2025-11-03T17:26:56-04:00'
-draft = true
+layout = 'guide'
 title = 'Lenovo ThinkPad E14 Gen 2'
 categories = ["Laptop"]
 tags = ["Lenovo"]
 author = ["Glenna"]
-softwares = ["Android"]
+softwares = ["Windows"]
 +++
 
-## Lenovo ThinkPad E14 Gen 2 Repair
-
 The Lenovo ThinkPad E14 Gen 2 is a business-class device designed by Lenovo. It is part of the ThinkPad E Series and is known for its reliable performance, portability, and professional design.
+
+**Difficulty Level:**  ⭐⭐/5
+
+**Time Required:30–45 minutes**
 
 ![Picture of a Lenovo thinkpad E14 Gen 2](/images/lenovothinkpad.jpg)
 

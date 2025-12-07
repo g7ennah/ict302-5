@@ -1,16 +1,20 @@
 +++
 date = '2025-11-20T10:52:56-04:00'
 draft = true
-featured_image = '/images/xbox.jfif'
+layout = 'guide'
 title = 'Xbox Series X' 
+featured_image = '/images/xbox.jfif'
 categories = ["Gaming Console"]
 tags = ["Xbox"]
 author = ["Ryder White"]
 softwares = ["Microsoft"]
 +++
 
-## Xbox Series X Repair
 The Xbox Series X is Microsoft’s flagship gaming console, built for high-performance gameplay, fast load times, and next-gen graphical capabilities. As part of the fourth generation of Xbox consoles, it’s known for its powerful hardware, durable chassis, and efficient cooling system designed for long gaming sessions.
+
+**Difficulty Level:**  ⭐⭐⭐⭐/5
+
+**Time Required: 1-2 hours**
 
 ![Pixture of a Black X Box with controller ](/images/xbox.jfif)
 
@@ -29,7 +33,6 @@ The Xbox Series X is Microsoft’s flagship gaming console, built for high-perfo
  Buttons & Sensor Components (2)
 
 Model: Xbox Series X (RRT-00010 and variants)
-
 
 **Background**
 

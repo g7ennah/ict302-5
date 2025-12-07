@@ -8,5 +8,3 @@ title = 'Need a Fix?'
 Need repair fixes to your broken device?
 
 
-
-
