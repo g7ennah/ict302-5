@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mobile on Right 2 Repair</title>
+    <title>Mobile on Right to Repair</title>
     <link>http://localhost:1313/categories/mobile/</link>
-    <description>Recent content in Mobile on Right 2 Repair</description>
+    <description>Recent content in Mobile on Right to Repair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Nov 2025 10:52:56 -0400</lastBuildDate>
@@ -13,14 +13,14 @@
       <link>http://localhost:1313/guides/google-pixel-battery-replacement/</link>
       <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
       <guid>http://localhost:1313/guides/google-pixel-battery-replacement/</guid>
-      <description>&lt;h2 id=&#34;google-pixel-battery-replacement&#34;&gt;Google Pixel Battery Replacement&lt;/h2&gt;&#xA;&lt;p&gt;The Google Pixel (1st generation) uses a lithium-ion battery that degrades over time. Common symptoms include rapid battery drain, random shutdowns, and swollen battery cells. Replacing the battery restores device longevity and prevents potential damage caused by battery swelling.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐/5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Required:30–45 minutes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Identification:&lt;/strong&gt;&#xA;You can identify this device by its:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;~Two-tone aluminum and glass back design &#xD;&#xA;~Single rear camera &#xD;&#xA;~Circular fingerprint sensor centered on the back &#xD;&#xA;~Model number “G-2PW4100” printed on the bottom rear side &#xD;&#xA;~If your device matches these features, you have the correct guide. &#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt;&#xA;This guide explains how to remove the screen, disconnect internal components, and safely install a new battery.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Google Pixel (1st generation) uses a lithium-ion battery that degrades over time. Common symptoms include rapid battery drain, random shutdowns, and swollen battery cells. Replacing the battery restores device longevity and prevents potential damage caused by battery swelling.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐/5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Required:30–45 minutes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Identification:&lt;/strong&gt;&#xA;You can identify this device by its:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;~Two-tone aluminum and glass back design &#xD;&#xA;~Single rear camera &#xD;&#xA;~Circular fingerprint sensor centered on the back &#xD;&#xA;~Model number “G-2PW4100” printed on the bottom rear side &#xD;&#xA;~If your device matches these features, you have the correct guide. &#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt;&#xA;This guide explains how to remove the screen, disconnect internal components, and safely install a new battery.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Smartphone USB-C Charging Port Replacement</title>
       <link>http://localhost:1313/guides/smartphone-usb-c-replacement/</link>
       <pubDate>Thu, 20 Nov 2025 10:52:56 -0400</pubDate>
       <guid>http://localhost:1313/guides/smartphone-usb-c-replacement/</guid>
-      <description>&lt;h2 id=&#34;smartphone-usb-c-charging-port-replacement&#34;&gt;Smartphone USB-C Charging Port Replacement&lt;/h2&gt;&#xA;&lt;p&gt;The Xbox Series X is Microsoft’s flagship gaming console, built for high-performance gameplay, fast load times, and next-gen graphical capabilities. As part of the fourth generation of Xbox consoles, it’s known for its powerful hardware, durable chassis, and efficient cooling system designed for long gaming sessions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.datapro.net/images/techinfo/usb-c_connector.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐/5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Required: 40-60 minutes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&#xA;Over time, USB-C charging ports can wear out, fill with debris, or become loose from repeated cable insertion. When the phone only charges at certain angles, doesn’t connect to a computer, or stops fast charging, replacing the charging port assembly can restore full functionality.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Xbox Series X is Microsoft’s flagship gaming console, built for high-performance gameplay, fast load times, and next-gen graphical capabilities. As part of the fourth generation of Xbox consoles, it’s known for its powerful hardware, durable chassis, and efficient cooling system designed for long gaming sessions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Difficulty Level:&lt;/strong&gt;  ⭐⭐⭐/5&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Time Required: 40-60 minutes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&#xA;Over time, USB-C charging ports can wear out, fill with debris, or become loose from repeated cable insertion. When the phone only charges at certain angles, doesn’t connect to a computer, or stops fast charging, replacing the charging port assembly can restore full functionality.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

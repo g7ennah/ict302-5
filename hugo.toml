@@ -1,6 +1,6 @@
 baseURL = "https://symphonious-zuccutto-ade378.netlify.app/"
 languageCode = "en-us"
-title = "Right 2 Repair"
+title = "Right to Repair"
 theme ="ananke"
 
 [taxonomies]
