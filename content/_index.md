@@ -10,22 +10,22 @@ featured_image= '/images/right_to_repair.jpg'
 # FIX MORE. WASTE LESS. 
 </div>
 
-<div class="tl">
+<div class="tl dark-blue" style="text-align:center;">
 
 Need an guide? Have a question? Want to learn more about Right to Repair?
 
 </div>
-
-
-
 
 <div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="text-align:center;" markdown="1">
   
   ### YOU'RE IN THE RIGHT PLACE!!!
 </div>
 
+<div class="tl dark-blue" style="text-align:center;">
 
-Right to Repair is your hub for fixing the products you rely on every day. Whether it's repairing a laptop, speaker, appliance, etc., we provide step-by-step guides and expert tips to help you do it with confidence.<br><br>
+Right to Repair is your hub for fixing the products you rely on every day. Whether it's repairing a laptop, speaker, appliance, etc. We provide step-by-step guides and expert tips to help you do it with confidence.<br><br>
+
+</div>
 
 <div style="
   display:flex;
