@@ -5,7 +5,7 @@ title = "Need a Fix?"
 featured_image= '/images/right_to_repair.jpg'
 +++
 
-<div class="dark-blue">
+<div class="orange">
  
 ## Can't find a relevant guide for your appliance?
 

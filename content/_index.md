@@ -5,23 +5,24 @@ title = "Right to Repair"
 featured_image= '/images/right_to_repair.jpg'
 +++
 
-<div class="dark-blue">
+<div class="orange">
 
 # FIX MORE. WASTE LESS. 
 </div>
 
-<div class="tl dark-blue" style="text-align:center;">
+<div class="tl" style="text-align:center;">
 
 Need an guide? Have a question? Want to learn more about Right to Repair?
 
 </div>
 
-<div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="text-align:center;" markdown="1">
+<div class="ba br3 pa3 ma3"
+     style="background:#FFCF3F; border:2px solid #FFCF3F; text-align:center;" markdown="1">
   
   ### YOU'RE IN THE RIGHT PLACE!!!
 </div>
 
-<div class="tl dark-blue" style="text-align:center;">
+<div class="tl" style="text-align:center;">
 
 Right to Repair is your hub for fixing the products you rely on every day. Whether it's repairing a laptop, speaker, appliance, etc. We provide step-by-step guides and expert tips to help you do it with confidence.<br><br>
 
@@ -29,19 +30,31 @@ Right to Repair is your hub for fixing the products you rely on every day. Wheth
 
 
 
-<div class="">
-    
 <div style="text-align:center; margin-top:20px;">
 
-  <a href="http://localhost:1313/guides/" class="blue-btn">Guides</a>
+  <a href="http://localhost:1313/guides/" 
+     style="background:#E8E8E8; color:#FF6A00; padding:10px 20px; border-radius:20px; margin:5px; text-decoration:none; display:inline-block;">
+     Guides
+  </a>
 
-  <a href="/ask/" class="blue-btn">Get Certified</a>
+  <a href="/ask/" 
+     style="background:#E8E8E8; color:#FF6A00; padding:10px 20px; border-radius:20px; margin:5px; text-decoration:none; display:inline-block;">
+     Get Certified
+  </a>
 
-  <a href="/repairs/" class="blue-btn">Need a Fix?</a>
-  
-  <a href="/repairs/" class="blue-btn">About</a>
+  <a href="/repairs/" 
+     style="background:#E8E8E8; color:#FF6A00; padding:10px 20px; border-radius:20px; margin:5px; text-decoration:none; display:inline-block;">
+     Need a Fix?
+  </a>
+
+  <a href="/about/" 
+     style="background:#E8E8E8; color:#FF6A00; padding:10px 20px; border-radius:20px; margin:5px; text-decoration:none; display:inline-block;">
+     About
+  </a>
 
 </div>
+
+<br>
 
 <style>
    
@@ -66,8 +79,10 @@ Right to Repair is your hub for fixing the products you rely on every day. Wheth
   
   
 </style>
+
+
 ---
-Check out some recent news artciles relating to Right to Repair!
+Check out some artciles and websites relating to Right to Repair!
 
 <div style="
   display:flex;
@@ -77,42 +92,32 @@ Check out some recent news artciles relating to Right to Repair!
   flex-wrap:wrap;
 ">
 
-<a href="http://localhost:1313/guides/">
-  <div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="width:200px; text-align:center;">
-    ### BOX ONE
-  </div>
-</a>
+  <a href="https://www.wipo.int/en/web/wipo-magazine/articles/the-right-to-repair-recent-developments-in-the-usa-56378"
+     style="color:black; text-decoration-color:black;">
+    <div class="br3 pa3 ma3"
+         style="background:#FFCF3F; border:2px solid #FFEA70; width:200px; height:150px; text-align:center; display:flex; align-items:center; justify-content:center; color:black;">
+      The Right to Repair: Recent Developments in the USA
+    </div>
+  </a>
 
-  <div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="width:200px; text-align:center;">
-    ### BOX TWO
-  </div>
+  <a href="https://www.ncsl.org/technology-and-communication/right-to-repair-2023-legislation"
+     style="color:black; text-decoration-color:black;">
+    <div class="br3 pa3 ma3"
+         style="background:#FFCF3F; border:2px solid #FFEA70; width:200px; height:150px; text-align:center; display:flex; align-items:center; justify-content:center; color:black;">
+      Right to Repair 2023 Legislation
+    </div>
+  </a>
 
-  <div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="width:200px; text-align:center;">
-    ### BOX THREE
-  </div>
-
-  <div class="bg-light-blue ba b--light-blue br3 pa3 ma3" style="width:200px; text-align:center;">
-    ### BOX FOUR
-  </div>
-
-</div>
-
-<<<<<<< HEAD
-=======
-
-<div class="">
-    
-<div style="text-align:center; margin-top:20px;">
-
-  <a href="http://localhost:1313/guides/" class="blue-btn">Guides</a>
-
-  <a href="/getcertified/" class="blue-btn">Get Certified</a>
-
-  <a href="/need-a-fix/" class="blue-btn">Need a Fix?</a>
-  
-  <a href="/about/" class="blue-btn">About</a>
+  <a href="https://consumerrights.wiki/w/Right_to_repair"
+     style="color:black; text-decoration-color:black;">
+    <div class="br3 pa3 ma3"
+         style="background:#FFCF3F; border:2px solid #FFEA70; width:200px; height:150px; text-align:center; display:flex; align-items:center; justify-content:center; color:black;">
+      Right to Repair
+    </div>
+  </a>
 
 </div>
+
 
 <style>
 .blue-btn {
@@ -136,11 +141,22 @@ Check out some recent news artciles relating to Right to Repair!
 }
 </style>
 
->>>>>>> e1e95cf3750f15c64dbd78d4ce99722d232ec4e4
 ___
-### Featured Guides
-</div>
+<style>
+  .guide-card h3 {
+    color: #FF6A00;
+    text-align: center;
+  }
 
+  /* Optional: remove underline & keep hover styles clean */
+  .guide-card {
+    text-decoration: none;
+    color: inherit;
+  }
+</style>
+
+
+### Featured Guides
 <div style="
   display:grid;
   grid-template-columns:repeat(auto-fit, minmax(220px, 1fr));
@@ -153,7 +169,7 @@ ___
     <h3>Replace Google Pixel Battery</h3>
   </a>
 
- <a href="/guides/smartphone-usb-c-replacement/" class="guide-card">
+  <a href="/guides/smartphone-usb-c-replacement/" class="guide-card">
     <img src="/images/usb-c.jpg" alt="USB-C Repalcement">
     <h3>USB-C Replacement</h3>
   </a>
@@ -164,9 +180,8 @@ ___
   </a>
 
   <a href="/guides/hp-pavilion-15-f/" class="guide-card">
-    <img src="/images/hp15f.jfif" alt="HP15-F"> 
-    <h3>HP 15-F </h3>
-
+    <img src="/images/hp15f.jfif" alt="HP15-F">
+    <h3>HP 15-F</h3>
   </a>
 
 </div>

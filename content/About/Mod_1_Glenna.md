@@ -3,8 +3,8 @@ date = '2025-10-14T11:58:58-04:00'
 title = 'Mod_1_Glenna'
 +++
 <style>
-.RoyalBlue {
-  color: royalblue;
+.Orange {
+  color: orange;
 }
 </style>
 
@@ -14,7 +14,7 @@ Access to reliable resources, application guides, and support materials should n
 
 If you have questions, concerns, feedback, or suggestions on how we can make this platform more useful for people like you, please reach out.
 
-<div class="RoyalBlue">
+<div class="Orange">
 
 ## Your input helps us improve and makes a real impact.
 
