@@ -10,6 +10,7 @@ theme ="ananke"
   software = "softwares"
 
 [menus]
+
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
@@ -20,7 +21,6 @@ theme ="ananke"
     pageRef = '/GetCertified'
     weight = 20
 
-# this is to help create use html syntax on markdown file
   [[menus.main]]
     name = 'Need a fix?'
     pageRef = '/need-a-fix'
@@ -36,27 +36,19 @@ theme ="ananke"
     pageRef = '/About'
     weight = 50
 
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true    
-     
-  
   [[menus.main]]
     name = 'Contact' 
     url = "/About/Contact"
-    weight = 50 
+    weight = 60
     parent = 'About'
   
   [[menus.main]]
     name = 'Who We Are'
     url = "/About/WhoWeAre"
-    weight = 60 
+    weight = 70
     parent = 'About'
-
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true   
+      unsafe = true
