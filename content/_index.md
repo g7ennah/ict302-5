@@ -7,7 +7,7 @@ featured_image= '/images/right_to_repair.jpg'
 
 <div class="dark-blue">
 
-# FIX MORE. WASTE LESS.
+# FIX MORE. WASTE LESS. 
 </div>
 
 <div class="tl">
@@ -94,4 +94,34 @@ Right to Repair is your hub for fixing the products you rely on every day. Wheth
 
 ___
 ### Featured Guides
+</div>
+
+<div style="
+  display:grid;
+  grid-template-columns:repeat(auto-fit, minmax(220px, 1fr));
+  gap:20px;
+  margin-top:20px;
+">
+
+  <a href="/guides/google-pixel-battery-replacement/" class="guide-card">
+    <img src="/images/google pixel.jfif" alt="G Pixel Battery">
+    <h3>Replace Google Pixel Battery</h3>
+  </a>
+
+ <a href="/guides/smartphone-usb-c-replacement/" class="guide-card">
+    <img src="/images/usb-c.jpg" alt="USB-C Repalcement">
+    <h3>USB-C Replacement</h3>
+  </a>
+
+  <a href="/guides/xbox-series-x/" class="guide-card">
+    <img src="/images/xbox.jfif" alt="X Box series X">
+    <h3>X Box Series X</h3>
+  </a>
+
+  <a href="/guides/hp-pavilion-15-f/" class="guide-card">
+    <img src="/images/hp15f.jfif" alt="HP15-F"> 
+    <h3>HP 15-F </h3>
+
+  </a>
+
 </div>

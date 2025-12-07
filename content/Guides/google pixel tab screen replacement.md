@@ -10,10 +10,6 @@ author = ["Josh"]
 softwares = ["Google"]
 +++
 
-## Google Pixel Tablet – Screen Replacement ##
-
-![Alt text](https://cdn11.bigcommerce.com/s-o9pppsyjzh/images/stencil/1280x1280/products/493975/32392250/N6328378__1__00998.1754165302.jpg?c=1)
-
 **Background**:
 
 The Google Pixel Tablet features a bonded LCD and digitizer assembly that can become damaged due to drops, pressure points, or manufacturing aging. Users typically replace the screen when facing cracked glass, unresponsive touch input, flickering, or dead display zones. Because the screen is adhered around the perimeter, careful separation is necessary to avoid bending the frame or damaging internal cables. 
@@ -21,6 +17,9 @@ The Google Pixel Tablet features a bonded LCD and digitizer assembly that can be
 **Difficulty Level:**  ⭐⭐⭐⭐⭐/5
 
 **Time Required:45-75 minutes**
+
+![Alt text](https://cdn11.bigcommerce.com/s-o9pppsyjzh/images/stencil/1280x1280/products/493975/32392250/N6328378__1__00998.1754165302.jpg?c=1)
+
  
 **Identification:**
 You can identify the Google Pixel Tablet by: 
@@ -86,6 +85,3 @@ Position the replacement screen near the frame and reconnect the display cables.
 
 ![Alt text](https://images.unsplash.com/photo-1542751110-97427bbecf20)
 
- 
-
- 

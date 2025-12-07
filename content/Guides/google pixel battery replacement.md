@@ -10,8 +10,6 @@ author = ["Gina"]
 softwares = ["Google"]
 +++
 
-## Google Pixel Battery Replacement
-
 The Google Pixel (1st generation) uses a lithium-ion battery that degrades over time. Common symptoms include rapid battery drain, random shutdowns, and swollen battery cells. Replacing the battery restores device longevity and prevents potential damage caused by battery swelling. 
 
 **Difficulty Level:**  ⭐⭐⭐/5

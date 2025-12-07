@@ -10,10 +10,12 @@ author = ["Ryder White"]
 softwares = ["Microsoft"]
 +++
 
-## Whirlpool Refrigerator – Condenser Coil Cleaning ##
-
 **Background:**
 Refrigerators rely on condenser coils to release heat. Over time, dust and pet hair accumulate on the coils, restricting airflow. This forces the compressor to work harder, increasing energy consumption and reducing cooling efficiency. Regular cleaning prevents overheating and prolongs the refrigerator’s lifespan. 
+
+**Difficulty Level:**  ⭐/5
+
+**Time Required:20-25 minutes**
 
 **Identification:**
 
@@ -21,10 +23,6 @@ Most Whirlpool refrigerators have condenser coils located either:
 Behind a removable rear metal panel, or 
 Behind a plastic toe-kick grille on the front bottom section. 
 You can confirm it is a Whirlpool unit by locating the model tag inside the fridge, typically near the upper wall or side panel. 
-
-**Difficulty Level:**  ⭐/5
-
-**Time Required:20-25 minutes**
 
 **Overview:**
 This guide explains how to safely access and clean the condenser coils on a Whirlpool refrigerator to restore airflow and efficiency. 

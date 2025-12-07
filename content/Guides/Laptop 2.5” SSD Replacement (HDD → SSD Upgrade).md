@@ -10,10 +10,13 @@ author = ["Luigi"]
 softwares = ["Windows"]
 +++
 
-## Laptop 2.5” SSD Replacement (HDD → SSD Upgrade)
 
 **Background:**
 Many laptops ship with slower mechanical hard drives. Replacing the 2.5” HDD with a solid-state drive (SSD) dramatically improves boot times, app loading, and overall responsiveness. 
+
+**Difficulty Level:** ⭐⭐⭐/5
+
+**Time Required:20-40 minutes** (not including OS cloning/installation)
 
 ![Alttext](https://i.ebayimg.com/images/g/83sAAOSwgDBi6dn0/s-l400.jpg)
 
@@ -25,11 +28,6 @@ Check for a dedicated drive door on the underside or a full bottom panel held on
 
 **Overview:**
 You’ll open the laptop, remove the existing 2.5” drive, and install a new SSD in its place.
-
-
-**Difficulty Level:** ⭐⭐⭐/5
-
-**Time Required:20-40 minutes** (not including OS cloning/installation)
 
 **Tools Required:**
     

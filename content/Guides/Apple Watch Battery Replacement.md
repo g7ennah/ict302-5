@@ -10,21 +10,18 @@ authors = ["Jane"]
 softwares = ["IOS"]
 +++
 
-## Apple Watch Battery Replacement ##
-
 Apple Watch batteries gradually lose capacity because of frequent charging cycles. Over time, users may begin noticing shorter battery life, unexpected shutdowns, or swelling beneath the screen. Replacing the battery restores performance and prevents potential damage to the display caused by battery expansion. 
-
-![Alt text](https://i.ebayimg.com/images/g/a3YAAOSwaaxjc8SQ/s-l1200.jpg)
-
-**Identification**
-
-To identify your Apple Watch model, flip the device over and examine the text surrounding the heart-rate sensor. The series number (Series 1–8, SE, etc.) is printed along the rim. Earlier models have slightly thicker bezels and smaller displays, while modern versions have rounded edges and a larger screen area. 
 
 **Difficulty Level:**  ⭐⭐⭐⭐⭐/5
 
 **Time Required:45-60minutes**
 
- 
+ ![Alt text](https://i.ebayimg.com/images/g/a3YAAOSwaaxjc8SQ/s-l1200.jpg)
+
+**Identification**
+
+To identify your Apple Watch model, flip the device over and examine the text surrounding the heart-rate sensor. The series number (Series 1–8, SE, etc.) is printed along the rim. Earlier models have slightly thicker bezels and smaller displays, while modern versions have rounded edges and a larger screen area. 
+
 **Overview:**
 This guide explains how to safely open the Apple Watch, detach delicate display cables, access the internal battery, and replace it with a new one. 
 

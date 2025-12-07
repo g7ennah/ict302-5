@@ -10,10 +10,7 @@ author = ["Garret"]
 softwares = ["Android"]
 +++
 
-## Smartphone USB-C Charging Port Replacement ##
 The Xbox Series X is Microsoft’s flagship gaming console, built for high-performance gameplay, fast load times, and next-gen graphical capabilities. As part of the fourth generation of Xbox consoles, it’s known for its powerful hardware, durable chassis, and efficient cooling system designed for long gaming sessions.
-
-![Alt text](https://www.datapro.net/images/techinfo/usb-c_connector.jpg)
 
 **Difficulty Level:**  ⭐⭐⭐/5
 
@@ -21,6 +18,8 @@ The Xbox Series X is Microsoft’s flagship gaming console, built for high-perfo
 
 **Background:**
 Over time, USB-C charging ports can wear out, fill with debris, or become loose from repeated cable insertion. When the phone only charges at certain angles, doesn’t connect to a computer, or stops fast charging, replacing the charging port assembly can restore full functionality.
+
+![Alt text](https://www.datapro.net/images/techinfo/usb-c_connector.jpg)
 
 **Identification:**
 This guide is written for a generic Android smartphone with a USB-C charging port on the bottom edge and a separate charging daughterboard (common on many mid-range phones). Confirm your phone:

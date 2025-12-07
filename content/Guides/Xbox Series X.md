@@ -10,7 +10,6 @@ author = ["Ryder White"]
 softwares = ["Microsoft"]
 +++
 
-## Xbox Series X Repair
 The Xbox Series X is Microsoft’s flagship gaming console, built for high-performance gameplay, fast load times, and next-gen graphical capabilities. As part of the fourth generation of Xbox consoles, it’s known for its powerful hardware, durable chassis, and efficient cooling system designed for long gaming sessions.
 
 **Difficulty Level:**  ⭐⭐⭐⭐/5

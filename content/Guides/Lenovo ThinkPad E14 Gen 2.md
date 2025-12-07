@@ -8,8 +8,6 @@ author = ["Glenna"]
 softwares = ["Windows"]
 +++
 
-## Lenovo ThinkPad E14 Gen 2 Repair
-
 The Lenovo ThinkPad E14 Gen 2 is a business-class device designed by Lenovo. It is part of the ThinkPad E Series and is known for its reliable performance, portability, and professional design.
 
 **Difficulty Level:**  ⭐⭐/5
