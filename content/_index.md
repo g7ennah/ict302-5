@@ -27,6 +27,48 @@ Need an guide? Have a question? Want to learn more about Right to Repair?
 
 Right to Repair is your hub for fixing the products you rely on every day. Whether it's repairing a laptop, speaker, appliance, etc., we provide step-by-step guides and expert tips to help you do it with confidence.<br><br>
 
+
+
+<div class="">
+    
+<div style="text-align:center; margin-top:20px;">
+
+  <a href="http://localhost:1313/guides/" class="blue-btn">Guides</a>
+
+  <a href="/ask/" class="blue-btn">Get Certified</a>
+
+  <a href="/repairs/" class="blue-btn">Need a Fix?</a>
+  
+  <a href="/repairs/" class="blue-btn">About</a>
+
+</div>
+
+<style>
+   
+.blue-btn {
+  display: inline-block;
+  padding: 14px 26px;
+  margin: 10px;
+  background-color: #1e90ff;   /* Bright Blue */
+  color: white !important;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: all 0.25s ease;
+}
+
+.blue-btn:hover {
+  background-color: #187bcd;   /* Darker Blue */
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.25);
+  
+  
+</style>
+---
+Check out some recent news artciles relating to Right to Repair!
+
 <div style="
   display:flex;
   justify-content:center;
@@ -54,43 +96,6 @@ Right to Repair is your hub for fixing the products you rely on every day. Wheth
   </div>
 
 </div>
-
-
-<div class="">
-    
-<div style="text-align:center; margin-top:20px;">
-
-  <a href="http://localhost:1313/guides/" class="blue-btn">Guides</a>
-
-  <a href="/ask/" class="blue-btn">Get Certified</a>
-
-  <a href="/repairs/" class="blue-btn">Need a Fix?</a>
-  
-  <a href="/repairs/" class="blue-btn">About</a>
-
-</div>
-
-<style>
-.blue-btn {
-  display: inline-block;
-  padding: 14px 26px;
-  margin: 10px;
-  background-color: #1e90ff;   /* Bright Blue */
-  color: white !important;
-  text-decoration: none;
-  border-radius: 30px;
-  font-size: 1.1rem;
-  font-weight: 600;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  transition: all 0.25s ease;
-}
-
-.blue-btn:hover {
-  background-color: #187bcd;   /* Darker Blue */
-  transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(0,0,0,0.25);
-}
-</style>
 
 ___
 ### Featured Guides

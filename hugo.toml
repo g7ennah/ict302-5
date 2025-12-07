@@ -28,18 +28,8 @@ theme ="ananke"
   [[menus.main]]
     name = 'Guides'
     pageRef = '/Guides'
-    weight = 4
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true    
-     
-
-
-    weight = 40
-  
+    weight = 40 
+      
   [[menus.main]]
     name = 'Contact' 
     url = "/About/Contact"
@@ -51,3 +41,9 @@ theme ="ananke"
     url = "/About/WhoWeAre"
     weight = 60 
     parent = 'About'
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true   
