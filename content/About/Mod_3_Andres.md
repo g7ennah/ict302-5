@@ -16,4 +16,4 @@ If you have questions, need additional assistance, or wish to share feedback tha
 
 You can connect with me at
 
-**andresisawesome@gmail.com**
+**andresd@r2r.com**

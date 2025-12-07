@@ -37,12 +37,12 @@ Right to Repair is your hub for fixing the products you rely on every day. Wheth
      Guides
   </a>
 
-  <a href="/ask/" 
+  <a href="/getcertified/" 
      style="background:#E8E8E8; color:#FF6A00; padding:10px 20px; border-radius:20px; margin:5px; text-decoration:none; display:inline-block;">
      Get Certified
   </a>
 
-  <a href="/repairs/" 
+  <a href="/need-a-fix/" 
      style="background:#E8E8E8; color:#FF6A00; padding:10px 20px; border-radius:20px; margin:5px; text-decoration:none; display:inline-block;">
      Need a Fix?
   </a>
